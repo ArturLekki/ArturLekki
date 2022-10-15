@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArturLekki
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP, MySQL, HTML, CSS, C#
+- 🌱 I’m currently working as Freelancer creating .NET web applications
 - 💞️ I’m looking for a job! :)
 - 📫 How to reach me? mail me: a.lekki1990@gmail.com or visit one of my websites: www.saveweb.pl
 
