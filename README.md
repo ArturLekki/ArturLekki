@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently working as Freelancer creating .NET applications
 - 💞️ I’m looking for a job! :)
-- 📫 How to reach me? mail me: a.lekki1990@gmail.com or visit one of my websites: www.saveweb.pl
+- 📫 How to reach me? mail me: a.lekki1990@gmail.com
 
 <!---
 ArturLekki/ArturLekki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
